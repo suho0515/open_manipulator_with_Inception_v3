@@ -1,0 +1,3 @@
+stapler
+salt
+lime
